@@ -9,16 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BaiTap_Lab02_Android_Tuan2">
-        <activity android:name=".BaiTap_2b">
+        <activity android:name=".BaiTap_2c">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BaiTap_2a">
+        <activity android:name=".BaiTap_2b">
 
         </activity>
+        <activity android:name=".BaiTap_2a"></activity>
 
         <meta-data
             android:name="preloaded_fonts"
